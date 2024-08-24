@@ -1,0 +1,71 @@
+{
+  "result": {
+    "metadata_modified": "2024-08-23T19:40:26.427Z",
+    "metadata_created": "2024-08-07T18:32:10.436Z",
+    "resources": [
+      {
+        "id": "ace44eb9-c995-463f-bf8a-6f529d196a27",
+        "size": 321021,
+        "format": "PDF",
+        "created": "2024-08-20T19:54:55.638Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/ace44eb9-c995-463f-bf8a-6f529d196a27/download/anexo_6201340_2.pdf",
+        "modified": "2024-08-20T19:30:10.979Z",
+        "description": "Contiene un detalle de lo que se debería cargar en cada campo y metadata. El documento es el Anexo II de la Res. N° 678/2020 modificatoria de la Disposición N° 7/2016"
+      },
+      {
+        "id": "e12edfc0-b0bc-4208-879a-b31b9573324b",
+        "size": 8950,
+        "format": "XLSX",
+        "created": "2024-08-20T20:24:23.367Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/e12edfc0-b0bc-4208-879a-b31b9573324b/download/maestro-provincias.xlsx",
+        "modified": "2024-08-20T17:24:22.099Z",
+        "description": "Excel para decodificar el nombre de la provincia a partir de su código."
+      },
+      {
+        "id": "fa18da68-65f4-427a-9167-528e9bcb9ec9",
+        "size": 202414006,
+        "format": "ZIP",
+        "created": "2024-08-21T00:22:57.185Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/fa18da68-65f4-427a-9167-528e9bcb9ec9/download/sepa_martes.zip",
+        "modified": "2024-08-22T20:47:07.804Z",
+        "description": "Precios SEPA Minoristas 20.08.2024"
+      },
+      {
+        "id": "4cf559c6-8665-40c1-8149-4eb3ccf40622",
+        "size": 196229647,
+        "format": "ZIP",
+        "created": "2024-08-21T00:46:29.481Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/4cf559c6-8665-40c1-8149-4eb3ccf40622/download/sepa_lunes.zip",
+        "modified": "2024-08-22T20:47:30.687Z",
+        "description": "Precios SEPA Minoristas 19.08.2024"
+      },
+      {
+        "id": "4d35b6b1-dc34-47d3-8a26-76dc45d2fb88",
+        "size": 206385964,
+        "format": "ZIP",
+        "created": "2024-08-21T17:54:26.282Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/4d35b6b1-dc34-47d3-8a26-76dc45d2fb88/download/precios_21.08.2024.zip",
+        "modified": "2024-08-22T20:45:43.796Z",
+        "description": "Precios SEPA Minoristas 21.08.2024"
+      },
+      {
+        "id": "d076720f-a7f0-4af8-b1d6-1b99d5a90c14",
+        "size": 203158274,
+        "format": "ZIP",
+        "created": "2024-08-22T17:25:33.795Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/d076720f-a7f0-4af8-b1d6-1b99d5a90c14/download/sepa_jueves.zip",
+        "modified": "2024-08-23T16:39:58.315Z",
+        "description": "Precios SEPA Minoristas 22.08.2024"
+      },
+      {
+        "id": "91bc072a-4726-44a1-85ec-4a8467aad27e",
+        "size": 203314575,
+        "format": "ZIP",
+        "created": "2024-08-23T17:46:27.049Z",
+        "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/91bc072a-4726-44a1-85ec-4a8467aad27e/download/sepa_viernes.zip",
+        "modified": "2024-08-23T16:40:26.334Z",
+        "description": "Precios SEPA Minoristas 23.08.2024"
+      }
+    ]
+  }
+}
