@@ -6,13 +6,13 @@
     "maintainer": "Dirección de Evaluación y Monitoreo de Precios",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": "soportesepa@produccion.gob.ar",
+    "maintainer_email": "soportesepa@comercio.gob.ar",
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2024-09-05T19:44:48.727063",
+    "metadata_modified": "2024-09-06T18:14:55.531708",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
-    "author_email": "soportesepa@produccion.gob.ar",
+    "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
     "version": null,
     "creator_user_id": "2fe16557-7fa4-4940-80cf-a4a47b461c3e",
@@ -41,35 +41,26 @@
         "size": 178414228
       },
       {
-        "cache_last_updated": null,
-        "issued": "2024-08-28T14:23:36.226273",
-        "attributesDescription": "[]",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
-        "datastore_active": false,
-        "id": "1e92cd42-4f94-4071-a165-62c4cb2ce23c",
-        "size": 215733233,
-        "icon_url": "",
-        "state": "active",
-        "license_id": "CC-BY-4.0",
-        "accessURL": "",
-        "hash": "",
-        "description": "Precios SEPA Minoristas 28.08.2024",
-        "format": "ZIP",
-        "fileName": "",
-        "mimetype_inner": null,
-        "url_type": "upload",
-        "name": "precios_20240828",
         "mimetype": "application/zip",
         "cache_url": null,
-        "has-uploaded-file": "",
-        "created": "2024-08-28T14:23:36.226273",
+        "hash": "",
+        "description": "Precios SEPA Minoristas miércoles, 2024-09-06",
+        "name": "Miércoles",
+        "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/1e92cd42-4f94-4071-a165-62c4cb2ce23c/download/sepa_miercoles.zip",
-        "modified": "2024-08-29T16:11:42.486208",
-        "accessURL_field": "",
-        "last_modified": "2024-08-28T18:15:11.203672",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "created": "2024-08-28T14:23:36.226273",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2024-09-06T18:14:55.434602",
         "position": 1,
-        "revision_id": "b0ad24bd-db59-4cdf-b6ed-3f39c3ca8a5f",
-        "resource_type": "file.upload"
+        "revision_id": "6f810382-5121-41c9-8fe8-15ee7c85b992",
+        "url_type": "upload",
+        "id": "1e92cd42-4f94-4071-a165-62c4cb2ce23c",
+        "resource_type": "file.upload",
+        "size": 167124852
       },
       {
         "mimetype": "application/zip",
@@ -163,7 +154,7 @@
         "mimetype": "application/zip",
         "cache_url": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas viernes, 30/08/2024",
+        "description": "Precios SEPA Minoristas viernes, 06/09/2024",
         "name": "Viernes",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/91bc072a-4726-44a1-85ec-4a8467aad27e/download/sepa_viernes.zip",
@@ -173,13 +164,13 @@
         "created": "2024-08-23T14:46:27.049584",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2024-08-30T14:31:06.549783",
+        "last_modified": "2024-09-06T18:05:42.791276",
         "position": 6,
-        "revision_id": "9ea3897f-da4e-46ff-aa1d-af91893bd88f",
+        "revision_id": "8d602e00-ecbd-4b57-97e7-4adf0f5ffc66",
         "url_type": "upload",
         "id": "91bc072a-4726-44a1-85ec-4a8467aad27e",
         "resource_type": "file.upload",
-        "size": 213990815
+        "size": 167124852
       },
       {
         "cache_last_updated": null,
@@ -317,7 +308,7 @@
     "name": "sepa-precios",
     "isopen": true,
     "url": "https://datos.produccion.gob.ar/dataset/sepa-precios",
-    "notes": "SEPA (Sistema Electrónico de Publicidad de Precios Argentinos) reúne los precios de comercios minoristas (grandes establecimientos) de más de 70 mil productos en todo el país, lo que de forma agregada genera una base diaria de aproximadamente 12 millones de registros.\r\nhttps://www.preciosclaros.gob.ar/terminos_y_condiciones.html\r\n\r\nContactanos por cualquier tipo consulta, sugerencia y/o reclamo (ej: datos provistos por comercios no fidedignos) al e-mail soportesepa@produccion.gob.ar  ",
+    "notes": "SEPA (Sistema Electrónico de Publicidad de Precios Argentinos) reúne los precios de comercios minoristas (grandes establecimientos) de más de 70 mil productos en todo el país, lo que de forma agregada genera una base diaria de aproximadamente 12 millones de registros.\r\nhttps://www.preciosclaros.gob.ar/terminos_y_condiciones.html\r\n\r\nContactanos por cualquier tipo consulta, sugerencia y/o reclamo (ej: datos provistos por comercios no fidedignos) al e-mail soportesepa@comercio.gob.ar  ",
     "owner_org": "939cb8a3-520a-43fd-ae84-2a1f1aa60100",
     "extras": [
       {
@@ -350,7 +341,7 @@
       },
       {
         "key": "modified",
-        "value": "2024-09-05T16:44:48.642746"
+        "value": "2024-09-06T13:47:22.512809"
       },
       {
         "key": "province",
@@ -375,6 +366,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "title": "Precios Claros - Base SEPA",
-    "revision_id": "b8def346-e371-4b80-8d91-745ba8e808bd"
+    "revision_id": "7818be7e-72e8-4af3-a2bd-30372bc3de90"
   }
 }
