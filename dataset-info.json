@@ -6,13 +6,13 @@
     "maintainer": "Dirección de Evaluación y Monitoreo de Precios",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": "soportesepa@comercio.gob.ar",
+    "maintainer_email": "soportesepa@produccion.gob.ar",
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2024-09-05T14:17:46.987286",
+    "metadata_modified": "2024-09-05T19:44:48.727063",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
-    "author_email": "soportesepa@comercio.gob.ar",
+    "author_email": "soportesepa@produccion.gob.ar",
     "state": "active",
     "version": null,
     "creator_user_id": "2fe16557-7fa4-4940-80cf-a4a47b461c3e",
@@ -317,7 +317,7 @@
     "name": "sepa-precios",
     "isopen": true,
     "url": "https://datos.produccion.gob.ar/dataset/sepa-precios",
-    "notes": "SEPA (Sistema Electrónico de Publicidad de Precios Argentinos) reúne los precios de comercios minoristas (grandes establecimientos) de más de 70 mil productos en todo el país, lo que de forma agregada genera una base diaria de aproximadamente 12 millones de registros.\r\nhttps://www.preciosclaros.gob.ar/terminos_y_condiciones.html\r\n\r\nContactanos por cualquier tipo consulta, sugerencia y/o reclamo (ej: datos provistos por comercios no fidedignos) al e-mail soportesepa@comercio.gob.ar  ",
+    "notes": "SEPA (Sistema Electrónico de Publicidad de Precios Argentinos) reúne los precios de comercios minoristas (grandes establecimientos) de más de 70 mil productos en todo el país, lo que de forma agregada genera una base diaria de aproximadamente 12 millones de registros.\r\nhttps://www.preciosclaros.gob.ar/terminos_y_condiciones.html\r\n\r\nContactanos por cualquier tipo consulta, sugerencia y/o reclamo (ej: datos provistos por comercios no fidedignos) al e-mail soportesepa@produccion.gob.ar  ",
     "owner_org": "939cb8a3-520a-43fd-ae84-2a1f1aa60100",
     "extras": [
       {
@@ -350,7 +350,7 @@
       },
       {
         "key": "modified",
-        "value": "2024-08-20T23:44:26.268674"
+        "value": "2024-09-05T16:44:48.642746"
       },
       {
         "key": "province",
@@ -375,6 +375,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "title": "Precios Claros - Base SEPA",
-    "revision_id": "ae5d8ead-3511-41fa-bc39-980f5331605d"
+    "revision_id": "b8def346-e371-4b80-8d91-745ba8e808bd"
   }
 }
