@@ -31,36 +31,36 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * 9e6fee75-797b-44f1-8fcc-034207a3a8f4-revID-1f702d76-6459-4c30-8f3c-5714fe848bde  ❌ (27/08/2024, 11:35 a. m.)
 * miércoles, 28/08/2024:
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-b0ad24bd-db59-4cdf-b6ed-3f39c3ca8a5f  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-b0ad24bd-db59-4cdf-b6ed-3f39c3ca8a5f-sepa_miercoles.zip-repackaged.tar.zst) (29/08/2024, 04:11 p. m.)
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c72ae89e-295c-4e19-9105-587134fbbaae  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c72ae89e-295c-4e19-9105-587134fbbaae-sepa_miercoles.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c72ae89e-295c-4e19-9105-587134fbbaae  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c72ae89e-295c-4e19-9105-587134fbbaae-sepa_miercoles.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * jueves, 29/08/2024:
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-b0ad24bd-db59-4cdf-b6ed-3f39c3ca8a5f  [✅ descargar](d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-b0ad24bd-db59-4cdf-b6ed-3f39c3ca8a5f-sepa_jueves.zip-repackaged.tar.zst) (29/08/2024, 04:11 p. m.)
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-1dc671ae-02a9-4362-bedf-902a5dce86c6  ❌ (10/09/2024, 06:10 a. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-1dc671ae-02a9-4362-bedf-902a5dce86c6  ❌ (10/09/2024, 12:14 p. m.)
 * viernes, 30/08/2024:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-9ea3897f-da4e-46ff-aa1d-af91893bd88f  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-9ea3897f-da4e-46ff-aa1d-af91893bd88f-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-9ea3897f-da4e-46ff-aa1d-af91893bd88f  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-9ea3897f-da4e-46ff-aa1d-af91893bd88f-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * sábado, 31/08/2024:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-6718aebf-ba71-4e15-b4b2-366b6aa90b25  [✅ descargar](b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-6718aebf-ba71-4e15-b4b2-366b6aa90b25-sepa_sabado.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-6718aebf-ba71-4e15-b4b2-366b6aa90b25  [✅ descargar](b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-6718aebf-ba71-4e15-b4b2-366b6aa90b25-sepa_sabado.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * domingo, 01/09/2024:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-4f26a74b-3ed1-4711-a914-443dc7801210  [✅ descargar](f8e75128-515a-436e-bf8d-5c63a62f2005-revID-4f26a74b-3ed1-4711-a914-443dc7801210-sepa_domingo.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-dc7ac365-2a4c-4266-9825-6d5a0991033a  [✅ descargar](f8e75128-515a-436e-bf8d-5c63a62f2005-revID-dc7ac365-2a4c-4266-9825-6d5a0991033a-sepa_domingo.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-4f26a74b-3ed1-4711-a914-443dc7801210  [✅ descargar](f8e75128-515a-436e-bf8d-5c63a62f2005-revID-4f26a74b-3ed1-4711-a914-443dc7801210-sepa_domingo.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-dc7ac365-2a4c-4266-9825-6d5a0991033a  [✅ descargar](f8e75128-515a-436e-bf8d-5c63a62f2005-revID-dc7ac365-2a4c-4266-9825-6d5a0991033a-sepa_domingo.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * lunes, 02/09/2024:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-e448fa4a-9c53-436b-962c-5565fd88aa28  [✅ descargar](0a9069a9-06e8-4f98-874d-da5578693290-revID-e448fa4a-9c53-436b-962c-5565fd88aa28-sepa_lunes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-0d13272a-e27f-47b3-9a03-da299b04f435  [✅ descargar](0a9069a9-06e8-4f98-874d-da5578693290-revID-0d13272a-e27f-47b3-9a03-da299b04f435-sepa_lunes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-e448fa4a-9c53-436b-962c-5565fd88aa28  [✅ descargar](0a9069a9-06e8-4f98-874d-da5578693290-revID-e448fa4a-9c53-436b-962c-5565fd88aa28-sepa_lunes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-0d13272a-e27f-47b3-9a03-da299b04f435  [✅ descargar](0a9069a9-06e8-4f98-874d-da5578693290-revID-0d13272a-e27f-47b3-9a03-da299b04f435-sepa_lunes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * martes, 03/09/2024:
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-83d55119-978a-4bcd-b366-e1228091776c  [✅ descargar](9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-83d55119-978a-4bcd-b366-e1228091776c-sepa_martes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-1eb343a1-d764-42d9-9ad3-2b3dcd5bab3d  [✅ descargar](9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-1eb343a1-d764-42d9-9ad3-2b3dcd5bab3d-sepa_martes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-83d55119-978a-4bcd-b366-e1228091776c  [✅ descargar](9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-83d55119-978a-4bcd-b366-e1228091776c-sepa_martes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-1eb343a1-d764-42d9-9ad3-2b3dcd5bab3d  [✅ descargar](9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-1eb343a1-d764-42d9-9ad3-2b3dcd5bab3d-sepa_martes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * miércoles, 04/09/2024:
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-cf9758a9-755f-4b02-b7fd-91e9bb2d7d59  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-cf9758a9-755f-4b02-b7fd-91e9bb2d7d59-sepa_miercoles.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-cf9758a9-755f-4b02-b7fd-91e9bb2d7d59  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-cf9758a9-755f-4b02-b7fd-91e9bb2d7d59-sepa_miercoles.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * jueves, 05/09/2024:
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a3de6c6a-8795-4348-a16d-bc626e9f1b2e  [✅ descargar](d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a3de6c6a-8795-4348-a16d-bc626e9f1b2e-sepa_jueves.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-96d64b1a-906b-463e-8d99-43df84ffb378  [✅ descargar](d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-96d64b1a-906b-463e-8d99-43df84ffb378-sepa_jueves.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a3de6c6a-8795-4348-a16d-bc626e9f1b2e  [✅ descargar](d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a3de6c6a-8795-4348-a16d-bc626e9f1b2e-sepa_jueves.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-96d64b1a-906b-463e-8d99-43df84ffb378  [✅ descargar](d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-96d64b1a-906b-463e-8d99-43df84ffb378-sepa_jueves.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * viernes, 06/09/2024:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-26b4b23e-b3a4-4e1e-a732-c56e7acade19  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-26b4b23e-b3a4-4e1e-a732-c56e7acade19-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6f810382-5121-41c9-8fe8-15ee7c85b992 ⁉️⚠️ dia de semana incorrecto, puede haberse subido incorrectamente  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6f810382-5121-41c9-8fe8-15ee7c85b992-sepa_miercoles.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-019353d5-b43f-4689-bcfc-572c2a540a03  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-019353d5-b43f-4689-bcfc-572c2a540a03-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-8d602e00-ecbd-4b57-97e7-4adf0f5ffc66  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-8d602e00-ecbd-4b57-97e7-4adf0f5ffc66-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-26b4b23e-b3a4-4e1e-a732-c56e7acade19  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-26b4b23e-b3a4-4e1e-a732-c56e7acade19-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6f810382-5121-41c9-8fe8-15ee7c85b992 ⁉️⚠️ dia de semana incorrecto, puede haberse subido incorrectamente  [✅ descargar](1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6f810382-5121-41c9-8fe8-15ee7c85b992-sepa_miercoles.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-019353d5-b43f-4689-bcfc-572c2a540a03  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-019353d5-b43f-4689-bcfc-572c2a540a03-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-8d602e00-ecbd-4b57-97e7-4adf0f5ffc66  [✅ descargar](91bc072a-4726-44a1-85ec-4a8467aad27e-revID-8d602e00-ecbd-4b57-97e7-4adf0f5ffc66-sepa_viernes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * sábado, 07/09/2024:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-36848be5-e109-448b-9c48-4fb2e5b28157  [✅ descargar](b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-36848be5-e109-448b-9c48-4fb2e5b28157-sepa_sabado.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-36848be5-e109-448b-9c48-4fb2e5b28157  [✅ descargar](b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-36848be5-e109-448b-9c48-4fb2e5b28157-sepa_sabado.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * domingo, 08/09/2024:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b92b0d42-d51a-4e67-a95d-ae5fbd107754  [✅ descargar](f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b92b0d42-d51a-4e67-a95d-ae5fbd107754-sepa_domingo.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b92b0d42-d51a-4e67-a95d-ae5fbd107754  [✅ descargar](f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b92b0d42-d51a-4e67-a95d-ae5fbd107754-sepa_domingo.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
 * lunes, 09/09/2024:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-f3a524e5-cfd8-4630-8b39-bc3d4158d87a  [✅ descargar](0a9069a9-06e8-4f98-874d-da5578693290-revID-f3a524e5-cfd8-4630-8b39-bc3d4158d87a-sepa_lunes.zip-repackaged.tar.zst) (10/09/2024, 06:10 a. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-f3a524e5-cfd8-4630-8b39-bc3d4158d87a  [✅ descargar](0a9069a9-06e8-4f98-874d-da5578693290-revID-f3a524e5-cfd8-4630-8b39-bc3d4158d87a-sepa_lunes.zip-repackaged.tar.zst) (10/09/2024, 12:14 p. m.)
