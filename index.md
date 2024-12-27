@@ -272,14 +272,24 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
 * viernes, 20/12/2024:
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-cf816524-553f-447f-a4e8-955a29b7e27a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-cf816524-553f-447f-a4e8-955a29b7e27a-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 20/12/2024, 09:03 p. m.)
 * sábado, 21/12/2024:
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 27/12/2024, 06:10 p. m.)
   * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-6f3cbe16-bd43-4ac8-86e3-9c943167b4cc  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-6f3cbe16-bd43-4ac8-86e3-9c943167b4cc-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 21/12/2024, 03:04 p. m.)
 * domingo, 22/12/2024:
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 27/12/2024, 06:10 p. m.)
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-c789f586-f9ff-4c0a-9781-69ee533c1227  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-c789f586-f9ff-4c0a-9781-69ee533c1227-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 23/12/2024, 09:04 p. m.)
 * lunes, 23/12/2024:
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 27/12/2024, 06:10 p. m.)
   * 0a9069a9-06e8-4f98-874d-da5578693290-revID-0e884fd5-5f7c-4211-a6c4-dfa516698742  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-0e884fd5-5f7c-4211-a6c4-dfa516698742-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 23/12/2024, 09:04 p. m.)
 * martes, 24/12/2024:
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 27/12/2024, 06:10 p. m.)
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-9c61ff63-f304-48d5-86a5-5f88513c0713  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-9c61ff63-f304-48d5-86a5-5f88513c0713-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 24/12/2024, 09:04 p. m.)
 * miércoles, 25/12/2024:
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 27/12/2024, 06:10 p. m.)
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-e2fe231d-3d6f-4674-8312-cdb1fbeba1a9  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-e2fe231d-3d6f-4674-8312-cdb1fbeba1a9-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 26/12/2024, 03:13 a. m.)
 * jueves, 26/12/2024:
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-2fbb5c2a-864a-4f2e-a96a-ae380dbda6a4  ❌ (primera vez visto: 27/12/2024, 06:10 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-ad4dd72e-92c3-43e8-8ce6-74ecf3217a68  ❌ (primera vez visto: 27/12/2024, 03:07 p. m.)
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-fb6e1539-dca9-413c-bd1a-95929eea8549  ❌ (primera vez visto: 26/12/2024, 09:03 p. m.)
+* viernes, 27/12/2024:
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-5a4c3ff2-6acc-4a18-bb91-58856ee833d9  ❌ (primera vez visto: 27/12/2024, 06:10 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-9a4e89ed-f4f4-4f53-b33e-5e2179770ecb  ❌ (primera vez visto: 27/12/2024, 03:07 p. m.)
