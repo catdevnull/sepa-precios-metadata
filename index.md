@@ -292,6 +292,9 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-ad4dd72e-92c3-43e8-8ce6-74ecf3217a68  ❌ (primera vez visto: 27/12/2024, 03:07 p. m.)
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-fb6e1539-dca9-413c-bd1a-95929eea8549  ❌ (primera vez visto: 26/12/2024, 09:03 p. m.)
 * viernes, 27/12/2024:
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-87b6f865-9fa5-4c45-9db8-eaf57acd6bc8  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-87b6f865-9fa5-4c45-9db8-eaf57acd6bc8-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 28/12/2024, 03:03 p. m.)
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2f519e84-e00a-4e29-81de-d6fd080096f9  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2f519e84-e00a-4e29-81de-d6fd080096f9-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 27/12/2024, 09:03 p. m.)
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-5a4c3ff2-6acc-4a18-bb91-58856ee833d9  ❌ (primera vez visto: 27/12/2024, 06:10 p. m.)
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-9a4e89ed-f4f4-4f53-b33e-5e2179770ecb  ❌ (primera vez visto: 27/12/2024, 03:07 p. m.)
+* sábado, 28/12/2024:
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-222329e5-c5fe-4cab-928d-1f52bd71062a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-222329e5-c5fe-4cab-928d-1f52bd71062a-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 28/12/2024, 03:03 p. m.)
