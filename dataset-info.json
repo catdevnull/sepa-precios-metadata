@@ -10,7 +10,7 @@
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2025-01-01T14:27:25.739589",
+    "metadata_modified": "2025-01-02T17:34:54.736949",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
     "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
@@ -44,7 +44,7 @@
         "mimetype": "application/zip",
         "cache_url": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas jueves, 2024-12-26",
+        "description": "Precios SEPA Minoristas jueves, 2025-01-02",
         "name": "Jueves",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/d076720f-a7f0-4af8-b1d6-1b99d5a90c14/download/sepa_jueves.zip",
@@ -54,13 +54,13 @@
         "created": "2024-08-22T14:25:33.795118",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2024-12-26T18:44:23.851949",
+        "last_modified": "2025-01-02T17:34:54.563084",
         "position": 1,
-        "revision_id": "2f519e84-e00a-4e29-81de-d6fd080096f9",
+        "revision_id": "3df33d2c-1701-4bb1-beb6-ba9c12ca9bfe",
         "url_type": "upload",
         "id": "d076720f-a7f0-4af8-b1d6-1b99d5a90c14",
         "resource_type": "file.upload",
-        "size": 192357269
+        "size": 237438444
       },
       {
         "mimetype": "application/zip",
@@ -120,13 +120,13 @@
         "created": "2024-08-26T14:51:55.515836",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2024-12-30T21:12:56.050973",
+        "last_modified": "2025-01-02T16:06:47.264278",
         "position": 4,
-        "revision_id": "0788d15a-1b8a-4992-8c0e-1cad0f831472",
+        "revision_id": "513bc01d-4ab9-4902-8696-d1d2e878ef41",
         "url_type": "upload",
         "id": "0a9069a9-06e8-4f98-874d-da5578693290",
         "resource_type": "file.upload",
-        "size": 202808655
+        "size": 221902606
       },
       {
         "cache_last_updated": null,
