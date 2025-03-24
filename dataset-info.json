@@ -10,7 +10,7 @@
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2025-03-23T13:32:58.818557",
+    "metadata_modified": "2025-03-24T14:32:51.945973",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
     "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
@@ -32,13 +32,13 @@
         "created": "2024-08-23T14:46:27.049584",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-03-21T12:59:36.021246",
+        "last_modified": "2025-03-24T14:22:53.137001",
         "position": 0,
-        "revision_id": "c20f44e8-a745-40c4-90e8-40453bc989a7",
+        "revision_id": "5c0818bf-feac-4986-b387-4cb4120d54de",
         "url_type": "upload",
         "id": "91bc072a-4726-44a1-85ec-4a8467aad27e",
         "resource_type": "file.upload",
-        "size": 231952429
+        "size": 215691849
       },
       {
         "mimetype": "application/zip",
@@ -54,19 +54,19 @@
         "created": "2024-08-22T14:25:33.795118",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-03-20T12:58:42.142504",
+        "last_modified": "2025-03-24T14:16:40.138067",
         "position": 1,
-        "revision_id": "e2f7ab26-3515-4bf7-8c51-2ed08c861db5",
+        "revision_id": "14ecb750-9540-4238-b023-a9008bf26117",
         "url_type": "upload",
         "id": "d076720f-a7f0-4af8-b1d6-1b99d5a90c14",
         "resource_type": "file.upload",
-        "size": 233444189
+        "size": 218129307
       },
       {
         "mimetype": "application/zip",
         "cache_url": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas miercoles, 2025-03-19",
+        "description": "Precios SEPA Minoristas miércoles, 2025-03-19",
         "name": "Miércoles",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/1e92cd42-4f94-4071-a165-62c4cb2ce23c/download/sepa_miercoles.zip",
@@ -76,13 +76,13 @@
         "created": "2024-08-28T14:23:36.226273",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-03-19T12:59:08.621646",
+        "last_modified": "2025-03-24T14:12:52.225983",
         "position": 2,
-        "revision_id": "7f381b0f-c4bf-4ad9-a290-d9e083e81095",
+        "revision_id": "3b452574-ed36-4cee-815b-c3311e7bbd3e",
         "url_type": "upload",
         "id": "1e92cd42-4f94-4071-a165-62c4cb2ce23c",
         "resource_type": "file.upload",
-        "size": 221662465
+        "size": 209193230
       },
       {
         "mimetype": "application/zip",
@@ -98,19 +98,19 @@
         "created": "2024-08-28T15:45:30.561921",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-03-18T12:58:41.464389",
+        "last_modified": "2025-03-24T14:08:33.587164",
         "position": 3,
-        "revision_id": "783be7b2-df44-41b0-9570-7c979198f5b3",
+        "revision_id": "e96f8d6e-826d-49dc-a805-4e7feb3b9e9b",
         "url_type": "upload",
         "id": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8",
         "resource_type": "file.upload",
-        "size": 207773076
+        "size": 197581377
       },
       {
         "mimetype": "application/zip",
         "cache_url": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas lunes, 2025-03-17",
+        "description": "Precios SEPA Minoristas lunes, 2025-03-24",
         "name": "Lunes",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/0a9069a9-06e8-4f98-874d-da5578693290/download/sepa_lunes.zip",
@@ -120,13 +120,13 @@
         "created": "2024-08-26T14:51:55.515836",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-03-22T20:20:58.508237",
+        "last_modified": "2025-03-24T13:33:19.991410",
         "position": 4,
-        "revision_id": "4c9958a7-6f9f-4241-bb14-ec0b06c9776b",
+        "revision_id": "14c7477c-9b61-47d7-99c3-669392aa1232",
         "url_type": "upload",
         "id": "0a9069a9-06e8-4f98-874d-da5578693290",
         "resource_type": "file.upload",
-        "size": 229364739
+        "size": 231494988
       },
       {
         "mimetype": "application/zip",
@@ -154,7 +154,7 @@
         "mimetype": "application/zip",
         "cache_url": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas sabado, 2025-03-15",
+        "description": "Precios SEPA Minoristas sábado, 2025-03-22",
         "name": "Sábado",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/b3c3da5d-213d-41e7-8d74-f23fda0a3c30/download/sepa_sabado.zip",
@@ -164,13 +164,13 @@
         "created": "2024-08-24T14:51:44.985148",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-03-15T13:32:58.177306",
+        "last_modified": "2025-03-24T14:32:48.655248",
         "position": 6,
-        "revision_id": "af1e90bd-b6ae-4572-8fb7-d2e6bb67af85",
+        "revision_id": "cff47f5e-0866-4505-8377-210ddd5c9ef1",
         "url_type": "upload",
         "id": "b3c3da5d-213d-41e7-8d74-f23fda0a3c30",
         "resource_type": "file.upload",
-        "size": 225924109
+        "size": 216026090
       },
       {
         "cache_last_updated": null,
