@@ -10,7 +10,7 @@
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2025-06-25T11:59:34.152449",
+    "metadata_modified": "2025-06-25T13:24:30.798546",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
     "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
@@ -76,13 +76,13 @@
         "created": "2024-08-28T14:23:36.226273",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-06-25T11:59:34.026469",
+        "last_modified": "2025-06-25T13:24:27.137541",
         "position": 2,
-        "revision_id": "df77b5d9-71a2-48d2-a1d4-74072320f5a5",
+        "revision_id": "7eeb7aa6-298d-4a09-a1fe-71436316f250",
         "url_type": "upload",
         "id": "1e92cd42-4f94-4071-a165-62c4cb2ce23c",
         "resource_type": "file.upload",
-        "size": 272120786
+        "size": 230125614
       },
       {
         "mimetype": "application/zip",
