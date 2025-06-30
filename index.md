@@ -671,3 +671,5 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-5ca01842-5a21-4e68-b737-3306039fb560  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-5ca01842-5a21-4e68-b737-3306039fb560-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 28/06/2025, 12:07 p. m.)
 * sábado, 28/06/2025:
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-c3f5a68e-9d8c-492d-962b-1e82af695896  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-c3f5a68e-9d8c-492d-962b-1e82af695896-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 29/06/2025, 12:07 p. m.)
+* domingo, 29/06/2025:
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-c7853b76-efdd-43c4-ab97-c06789401f9b  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-c7853b76-efdd-43c4-ab97-c06789401f9b-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 30/06/2025, 12:09 p. m.)
