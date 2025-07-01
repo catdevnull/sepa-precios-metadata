@@ -3086,5 +3086,14 @@
       "link": "https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-c7853b76-efdd-43c4-ab97-c06789401f9b-sepa_lunes.zip-repackaged.tar.zst",
       "firstSeenAt": "2025-06-30T15:09:27.240Z"
     }
+  ],
+  "2025-07-01": [
+    {
+      "id": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5658f9bb-41a2-4bcf-a77a-0c3a5b35bc7a",
+      "warnings": "",
+      "name": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5658f9bb-41a2-4bcf-a77a-0c3a5b35bc7a-sepa_martes.zip-repackaged.tar.zst",
+      "link": "https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5658f9bb-41a2-4bcf-a77a-0c3a5b35bc7a-sepa_martes.zip-repackaged.tar.zst",
+      "firstSeenAt": "2025-07-01T15:09:26.527Z"
+    }
   ]
 }
