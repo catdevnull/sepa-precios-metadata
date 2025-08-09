@@ -749,3 +749,5 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
 * miércoles, 06/08/2025: ❌ no tengo recursos para esta fecha
 * jueves, 07/08/2025:
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-3e0d5741-0749-4dfb-b7a3-ae20d852bcd7  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-3e0d5741-0749-4dfb-b7a3-ae20d852bcd7-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 08/08/2025, 12:09 p. m.)
+* viernes, 08/08/2025:
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-301985c6-b627-400a-9b5a-5d607b7e6121  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-301985c6-b627-400a-9b5a-5d607b7e6121-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 09/08/2025, 12:07 p. m.)
