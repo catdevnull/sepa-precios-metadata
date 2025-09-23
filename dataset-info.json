@@ -10,168 +10,167 @@
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "owner_org": "939cb8a3-520a-43fd-ae84-2a1f1aa60100",
-    "metadata_modified": "2025-09-22T13:54:57.700567",
+    "metadata_modified": "2025-09-23T13:52:20.774909",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
     "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "2fe16557-7fa4-4940-80cf-a4a47b461c3e",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "Precios SEPA Minoristas viernes, 2025-09-12",
+        "name": "Viernes",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/91bc072a-4726-44a1-85ec-4a8467aad27e/download/sepa_viernes.zip",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-23T14:46:27.049584",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "mimetype_inner": null,
         "last_modified": "2025-09-12T13:55:06.720260",
-        "mimetype": "application/zip",
-        "url_type": "upload",
         "position": 0,
         "revision_id": "935e68ca-c1a6-498d-9814-71097a0d59a3",
-        "size": 313659408,
-        "datastore_active": false,
+        "url_type": "upload",
         "id": "91bc072a-4726-44a1-85ec-4a8467aad27e",
         "resource_type": "file.upload",
-        "name": "Viernes"
+        "size": 313659408
       },
       {
-        "cache_last_updated": null,
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "Precios SEPA Minoristas jueves, 2025-09-18",
+        "name": "Jueves",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/d076720f-a7f0-4af8-b1d6-1b99d5a90c14/download/sepa_jueves.zip",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-22T14:25:33.795118",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "mimetype_inner": null,
         "last_modified": "2025-09-18T13:52:20.870701",
-        "mimetype": "application/zip",
-        "url_type": "upload",
         "position": 1,
         "revision_id": "3153d6ab-c4e9-4707-99ff-a4314ba9b591",
-        "size": 299464164,
-        "datastore_active": false,
+        "url_type": "upload",
         "id": "d076720f-a7f0-4af8-b1d6-1b99d5a90c14",
         "resource_type": "file.upload",
-        "name": "Jueves"
+        "size": 299464164
       },
       {
-        "cache_last_updated": null,
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "Precios SEPA Minoristas miercoles, 2025-09-17",
+        "name": "Miércoles",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/1e92cd42-4f94-4071-a165-62c4cb2ce23c/download/sepa_miercoles.zip",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-28T14:23:36.226273",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "mimetype_inner": null,
         "last_modified": "2025-09-17T13:55:07.514337",
-        "mimetype": "application/zip",
-        "url_type": "upload",
         "position": 2,
         "revision_id": "5990c9da-bcad-428e-90e9-b3a8ae3c845f",
-        "size": 297582858,
-        "datastore_active": false,
+        "url_type": "upload",
         "id": "1e92cd42-4f94-4071-a165-62c4cb2ce23c",
         "resource_type": "file.upload",
-        "name": "Miércoles"
+        "size": 297582858
       },
       {
-        "cache_last_updated": null,
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas martes, 2025-09-16",
+        "description": "Precios SEPA Minoristas martes, 2025-09-23",
+        "name": "Martes",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/9dc06241-cc83-44f4-8e25-c9b1636b8bc8/download/sepa_martes.zip",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-28T15:45:30.561921",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
-        "last_modified": "2025-09-16T13:51:43.378127",
-        "mimetype": "application/zip",
-        "url_type": "upload",
+        "mimetype_inner": null,
+        "last_modified": "2025-09-23T13:52:20.159170",
         "position": 3,
-        "revision_id": "dcd7c5a1-cf5c-4a9f-9bed-ba7c99c0c86c",
-        "size": 303388442,
-        "datastore_active": false,
+        "revision_id": "57b56d88-ce7a-4855-9d04-5dbe1733eca2",
+        "url_type": "upload",
         "id": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8",
         "resource_type": "file.upload",
-        "name": "Martes"
+        "size": 297608637
       },
       {
-        "cache_last_updated": "2024-12-30T15:06:03",
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "Precios SEPA Minoristas lunes, 2025-09-22",
+        "name": "Lunes",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/0a9069a9-06e8-4f98-874d-da5578693290/download/sepa_lunes.zip",
+        "datastore_active": false,
+        "cache_last_updated": "2024-12-30T15:06:03",
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-26T14:51:55.515836",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "mimetype_inner": null,
         "last_modified": "2025-09-22T13:54:44.697027",
-        "mimetype": "application/zip",
-        "url_type": "upload",
         "position": 4,
         "revision_id": "7d239346-a872-42aa-84d0-544a225cb631",
-        "size": 309082898,
-        "datastore_active": false,
+        "url_type": "upload",
         "id": "0a9069a9-06e8-4f98-874d-da5578693290",
         "resource_type": "file.upload",
-        "name": "Lunes"
+        "size": 309082898
       },
       {
-        "cache_last_updated": null,
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "Precios SEPA Minoristas domingo, 2025-09-21",
+        "name": "Domingo",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/f8e75128-515a-436e-bf8d-5c63a62f2005/download/sepa_domingo.zip",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-25T14:56:28.846924",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "mimetype_inner": null,
         "last_modified": "2025-09-21T13:48:50.956955",
-        "mimetype": "application/zip",
-        "url_type": "upload",
         "position": 5,
         "revision_id": "a67112bf-65cc-4432-b855-3aff9192e50d",
-        "size": 304500055,
-        "datastore_active": false,
+        "url_type": "upload",
         "id": "f8e75128-515a-436e-bf8d-5c63a62f2005",
         "resource_type": "file.upload",
-        "name": "Domingo"
+        "size": 304500055
       },
       {
-        "cache_last_updated": null,
+        "mimetype": "application/zip",
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "Precios SEPA Minoristas sabado, 2025-09-13",
+        "name": "Sábado",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/b3c3da5d-213d-41e7-8d74-f23fda0a3c30/download/sepa_sabado.zip",
+        "datastore_active": false,
+        "cache_last_updated": null,
+        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
         "created": "2024-08-24T14:51:44.985148",
         "state": "active",
-        "package_id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
+        "mimetype_inner": null,
         "last_modified": "2025-09-13T13:48:11.794180",
-        "mimetype": "application/zip",
-        "url_type": "upload",
         "position": 6,
         "revision_id": "c727e293-edb2-4681-b487-cb26fbdea712",
-        "size": 314074463,
-        "datastore_active": false,
+        "url_type": "upload",
         "id": "b3c3da5d-213d-41e7-8d74-f23fda0a3c30",
         "resource_type": "file.upload",
-        "name": "Sábado"
+        "size": 314074463
       },
       {
         "cache_last_updated": null,
@@ -184,17 +183,17 @@
         "icon_url": "",
         "state": "active",
         "license_id": "CC-BY-4.0",
-        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "accessURL": "",
         "hash": "",
         "description": "Excel para decodificar el nombre de la provincia a partir de su código.",
         "format": "XLSX",
         "fileName": "maestro provincias.xlsx",
         "mimetype_inner": null,
         "url_type": "upload",
-        "has-uploaded-file": "",
-        "accessURL": "",
-        "cache_url": null,
         "name": "Traductor de código provinciales",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "cache_url": null,
+        "has-uploaded-file": "",
         "created": "2024-08-20T17:24:23.367469",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/e12edfc0-b0bc-4208-879a-b31b9573324b/download/maestro-provincias.xlsx",
         "modified": "2024-08-20T14:24:22.099476",
@@ -215,17 +214,17 @@
         "icon_url": "",
         "state": "active",
         "license_id": "CC-BY-4.0",
-        "mimetype": "application/pdf",
+        "accessURL": "",
         "hash": "",
         "description": "Contiene un detalle de lo que se debería cargar en cada campo y metadata. El documento es el Anexo II de la Res. N° 678/2020 modificatoria de la Disposición N° 7/2016",
         "format": "PDF",
         "fileName": "",
         "mimetype_inner": null,
         "url_type": "upload",
-        "has-uploaded-file": "",
-        "accessURL": "",
-        "cache_url": null,
         "name": "Metadata (con detalle de los campos)",
+        "mimetype": "application/pdf",
+        "cache_url": null,
+        "has-uploaded-file": "",
         "created": "2024-08-20T16:54:55.638188",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/ace44eb9-c995-463f-bf8a-6f529d196a27/download/anexo_6201340_2.pdf",
         "modified": "2024-08-20T16:30:10.979816",
@@ -285,87 +284,88 @@
       {
         "display_name": "Comercio Interior",
         "description": "",
-        "title": "Comercio Interior",
         "image_display_url": "https://datos.produccion.gob.ar/uploads/group/2021-05-10-131806.410566carrito.svg",
+        "title": "Comercio Interior",
         "id": "80a2a54e-3ee3-41d0-a960-861e0318cce5",
         "name": "comercio-interior"
       }
     ],
-    "creator_user_id": "2fe16557-7fa4-4940-80cf-a4a47b461c3e",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "sepa-precios",
-    "isopen": true,
-    "url": "https://datos.produccion.gob.ar/dataset/sepa-precios",
-    "notes": "SEPA (Sistema Electrónico de Publicidad de Precios Argentinos) reúne los precios de comercios minoristas (grandes establecimientos) de más de 70 mil productos en todo el país, lo que de forma agregada genera una base diaria de aproximadamente 12 millones de registros.\r\nhttps://www.preciosclaros.gob.ar/terminos_y_condiciones.html\r\n\r\nContactanos por cualquier tipo consulta, sugerencia y/o reclamo (ej: datos provistos por comercios no fidedignos) al e-mail soportesepa@comercio.gob.ar  ",
-    "title": "Precios Claros - Base SEPA",
-    "extras": [
-      {
-        "value": "",
-        "key": "Documentación"
-      },
-      {
-        "value": "R/P1D",
-        "key": "accrualPeriodicity"
-      },
-      {
-        "value": "ARG",
-        "key": "country"
-      },
-      {
-        "value": "",
-        "key": "district"
-      },
-      {
-        "value": "false",
-        "key": "home_featured"
-      },
-      {
-        "value": "2024-08-14T15:36:38.340625",
-        "key": "issued"
-      },
-      {
-        "value": "[\"spa\"]",
-        "key": "language"
-      },
-      {
-        "value": "2024-09-06T13:47:22.512809",
-        "key": "modified"
-      },
-      {
-        "value": "",
-        "key": "province"
-      },
-      {
-        "value": "SEPA",
-        "key": "source"
-      },
-      {
-        "value": "ARG",
-        "key": "spatial"
-      },
-      {
-        "value": "[\"ECON\"]",
-        "key": "superTheme"
-      },
-      {
-        "value": "2024-06-02T03:00:00.000Z/2024-08-16T03:00:00.000Z",
-        "key": "temporal"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "organization": {
       "description": "",
-      "title": "Secretaría de Comercio Interior",
       "created": "2021-04-09T12:41:11.975665",
-      "approval_status": "approved",
+      "title": "Secretaría de Comercio Interior",
+      "name": "secretaria-de-comercio-interior",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "77530be3-fde7-434b-ab7a-0ff7d5c90fa7",
       "type": "organization",
       "id": "939cb8a3-520a-43fd-ae84-2a1f1aa60100",
-      "name": "secretaria-de-comercio-interior"
+      "approval_status": "approved"
     },
+    "name": "sepa-precios",
+    "isopen": true,
+    "url": "https://datos.produccion.gob.ar/dataset/sepa-precios",
+    "notes": "SEPA (Sistema Electrónico de Publicidad de Precios Argentinos) reúne los precios de comercios minoristas (grandes establecimientos) de más de 70 mil productos en todo el país, lo que de forma agregada genera una base diaria de aproximadamente 12 millones de registros.\r\nhttps://www.preciosclaros.gob.ar/terminos_y_condiciones.html\r\n\r\nContactanos por cualquier tipo consulta, sugerencia y/o reclamo (ej: datos provistos por comercios no fidedignos) al e-mail soportesepa@comercio.gob.ar  ",
+    "owner_org": "939cb8a3-520a-43fd-ae84-2a1f1aa60100",
+    "extras": [
+      {
+        "key": "Documentación",
+        "value": ""
+      },
+      {
+        "key": "accrualPeriodicity",
+        "value": "R/P1D"
+      },
+      {
+        "key": "country",
+        "value": "ARG"
+      },
+      {
+        "key": "district",
+        "value": ""
+      },
+      {
+        "key": "home_featured",
+        "value": "false"
+      },
+      {
+        "key": "issued",
+        "value": "2024-08-14T15:36:38.340625"
+      },
+      {
+        "key": "language",
+        "value": "[\"spa\"]"
+      },
+      {
+        "key": "modified",
+        "value": "2024-09-06T13:47:22.512809"
+      },
+      {
+        "key": "province",
+        "value": ""
+      },
+      {
+        "key": "source",
+        "value": "SEPA"
+      },
+      {
+        "key": "spatial",
+        "value": "ARG"
+      },
+      {
+        "key": "superTheme",
+        "value": "[\"ECON\"]"
+      },
+      {
+        "key": "temporal",
+        "value": "2024-06-02T03:00:00.000Z/2024-08-16T03:00:00.000Z"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "title": "Precios Claros - Base SEPA",
     "revision_id": "7818be7e-72e8-4af3-a2bd-30372bc3de90"
   }
 }
