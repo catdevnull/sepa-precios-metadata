@@ -10,7 +10,7 @@
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2025-10-28T13:55:43.412338",
+    "metadata_modified": "2025-10-28T20:36:17.865861",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
     "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
@@ -54,13 +54,13 @@
         "created": "2024-08-22T14:25:33.795118",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-10-23T13:55:50.438809",
+        "last_modified": "2025-10-28T20:00:11.312631",
         "position": 1,
-        "revision_id": "98f988d0-c5fa-47e8-acf2-877bc87abcb7",
+        "revision_id": "9ac45255-11d4-46c9-9412-5814648c4794",
         "url_type": "upload",
         "id": "d076720f-a7f0-4af8-b1d6-1b99d5a90c14",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 309308320
       },
       {
         "mimetype": "application/zip",
@@ -98,13 +98,13 @@
         "created": "2024-08-28T15:45:30.561921",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-10-28T13:55:42.913864",
+        "last_modified": "2025-10-28T20:36:16.695329",
         "position": 3,
-        "revision_id": "c262aed1-704a-4903-985d-e7c34d6b9dd6",
+        "revision_id": "534859e5-644d-49f9-abea-ec37dda8a011",
         "url_type": "upload",
         "id": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 300808544
       },
       {
         "mimetype": "application/zip",
@@ -120,13 +120,13 @@
         "created": "2024-08-26T14:51:55.515836",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-10-27T13:55:52.866130",
+        "last_modified": "2025-10-28T20:26:34.759933",
         "position": 4,
-        "revision_id": "5e6d9565-cff9-41c6-bd72-8ea143036a55",
+        "revision_id": "b4699963-31f6-4b53-9a90-906bdb848265",
         "url_type": "upload",
         "id": "0a9069a9-06e8-4f98-874d-da5578693290",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 306158411
       },
       {
         "mimetype": "application/zip",
@@ -142,13 +142,13 @@
         "created": "2024-08-25T14:56:28.846924",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-10-26T13:55:45.288105",
+        "last_modified": "2025-10-28T20:19:33.768303",
         "position": 5,
-        "revision_id": "f99380b3-b591-4350-8ede-90cee5c42ec6",
+        "revision_id": "461e4df5-eb8c-4895-965d-d9e859130440",
         "url_type": "upload",
         "id": "f8e75128-515a-436e-bf8d-5c63a62f2005",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 305857508
       },
       {
         "mimetype": "application/zip",
@@ -164,13 +164,13 @@
         "created": "2024-08-24T14:51:44.985148",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-10-25T13:55:47.732651",
+        "last_modified": "2025-10-28T20:12:25.669171",
         "position": 6,
-        "revision_id": "203871f7-6111-4951-84b0-128e9a9f3fd6",
+        "revision_id": "79571c15-fe6d-42de-ba12-eeafbc640ef2",
         "url_type": "upload",
         "id": "b3c3da5d-213d-41e7-8d74-f23fda0a3c30",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 311126642
       },
       {
         "cache_last_updated": null,
