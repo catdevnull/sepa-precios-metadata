@@ -4527,5 +4527,32 @@
       "link": "https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b3a96573-5dd8-47c6-b633-26d6a2f319ba-sepa_domingo.zip-repackaged.tar.zst",
       "firstSeenAt": "2025-11-30T15:00:43.596Z"
     }
+  ],
+  "2025-12-01": [
+    {
+      "id": "0a9069a9-06e8-4f98-874d-da5578693290-revID-c90cc4f5-42bc-48ab-b713-5209b361b306",
+      "warnings": "",
+      "name": "0a9069a9-06e8-4f98-874d-da5578693290-revID-c90cc4f5-42bc-48ab-b713-5209b361b306-sepa_lunes.zip-repackaged.tar.zst",
+      "link": "https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-c90cc4f5-42bc-48ab-b713-5209b361b306-sepa_lunes.zip-repackaged.tar.zst",
+      "firstSeenAt": "2025-12-03T15:01:05.585Z"
+    }
+  ],
+  "2025-12-02": [
+    {
+      "id": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-4fa5d1f6-4576-4d05-90e9-dab3cbfd1253",
+      "warnings": "",
+      "name": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-4fa5d1f6-4576-4d05-90e9-dab3cbfd1253-sepa_martes.zip-repackaged.tar.zst",
+      "link": "https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-4fa5d1f6-4576-4d05-90e9-dab3cbfd1253-sepa_martes.zip-repackaged.tar.zst",
+      "firstSeenAt": "2025-12-03T15:01:05.585Z"
+    }
+  ],
+  "2025-12-03": [
+    {
+      "id": "1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-447ca76d-fc23-4913-b497-057d46059573",
+      "warnings": "",
+      "name": "1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-447ca76d-fc23-4913-b497-057d46059573-sepa_miercoles.zip-repackaged.tar.zst",
+      "link": "https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-447ca76d-fc23-4913-b497-057d46059573-sepa_miercoles.zip-repackaged.tar.zst",
+      "firstSeenAt": "2025-12-03T15:01:05.585Z"
+    }
   ]
 }
