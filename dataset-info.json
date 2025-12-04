@@ -10,7 +10,7 @@
     "num_tags": 6,
     "id": "6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5",
     "metadata_created": "2024-08-07T15:32:10.436079",
-    "metadata_modified": "2025-12-03T20:27:07.330714",
+    "metadata_modified": "2025-12-04T14:51:13.421781",
     "author": "Subsecretaría de Defensa del Consumidor y Lealtad Comercial",
     "author_email": "soportesepa@comercio.gob.ar",
     "state": "active",
@@ -44,7 +44,7 @@
         "mimetype": "application/zip",
         "cache_url": null,
         "hash": "",
-        "description": "Precios SEPA Minoristas jueves, 2025-11-27",
+        "description": "Precios SEPA Minoristas jueves, 2025-12-04",
         "name": "Jueves",
         "format": "ZIP",
         "url": "https://datos.produccion.gob.ar/dataset/6f47ec76-d1ce-4e34-a7e1-621fe9b1d0b5/resource/d076720f-a7f0-4af8-b1d6-1b99d5a90c14/download/sepa_jueves.zip",
@@ -54,13 +54,13 @@
         "created": "2024-08-22T14:25:33.795118",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-11-27T14:05:48.750787",
+        "last_modified": "2025-12-04T14:19:03.463585",
         "position": 1,
-        "revision_id": "53fc01dd-5439-415f-a475-d0d956f0f1f9",
+        "revision_id": "1142c1bc-629e-4f84-a2de-d255ccba4602",
         "url_type": "upload",
         "id": "d076720f-a7f0-4af8-b1d6-1b99d5a90c14",
         "resource_type": "file.upload",
-        "size": 317139407
+        "size": 229890448
       },
       {
         "mimetype": "application/zip",
@@ -98,13 +98,13 @@
         "created": "2024-08-28T15:45:30.561921",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-12-03T13:52:06.107353",
+        "last_modified": "2025-12-04T14:51:13.404032",
         "position": 3,
-        "revision_id": "4fa5d1f6-4576-4d05-90e9-dab3cbfd1253",
+        "revision_id": "42f5adf9-d949-4dcf-91d1-ce50d7275799",
         "url_type": "upload",
         "id": "9dc06241-cc83-44f4-8e25-c9b1636b8bc8",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 304829507
       },
       {
         "mimetype": "application/zip",
@@ -120,13 +120,13 @@
         "created": "2024-08-26T14:51:55.515836",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2025-12-03T20:27:07.291238",
+        "last_modified": "2025-12-04T14:37:33.742874",
         "position": 4,
-        "revision_id": "e1662e31-5761-4538-a5b0-975551ed6ee2",
+        "revision_id": "3af11360-0a52-499f-9f49-2d50a3aaf4ec",
         "url_type": "upload",
         "id": "0a9069a9-06e8-4f98-874d-da5578693290",
         "resource_type": "file.upload",
-        "size": 172
+        "size": 321713844
       },
       {
         "mimetype": "application/zip",
