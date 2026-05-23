@@ -1228,3 +1228,71 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-688961f8-6181-455d-919c-1754976e7dac  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-688961f8-6181-455d-919c-1754976e7dac-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 21/03/2026, 03:08 p. m.)
 * domingo, 22/03/2026:
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-809bf3e5-6593-4afa-aa62-4feab32ca815  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-809bf3e5-6593-4afa-aa62-4feab32ca815-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 22/03/2026, 03:02 p. m.)
+* lunes, 23/03/2026: ❌ no tengo recursos para esta fecha
+* martes, 24/03/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 25/03/2026: ❌ no tengo recursos para esta fecha
+* jueves, 26/03/2026: ❌ no tengo recursos para esta fecha
+* viernes, 27/03/2026: ❌ no tengo recursos para esta fecha
+* sábado, 28/03/2026: ❌ no tengo recursos para esta fecha
+* domingo, 29/03/2026: ❌ no tengo recursos para esta fecha
+* lunes, 30/03/2026: ❌ no tengo recursos para esta fecha
+* martes, 31/03/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 01/04/2026: ❌ no tengo recursos para esta fecha
+* jueves, 02/04/2026: ❌ no tengo recursos para esta fecha
+* viernes, 03/04/2026: ❌ no tengo recursos para esta fecha
+* sábado, 04/04/2026: ❌ no tengo recursos para esta fecha
+* domingo, 05/04/2026: ❌ no tengo recursos para esta fecha
+* lunes, 06/04/2026: ❌ no tengo recursos para esta fecha
+* martes, 07/04/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 08/04/2026: ❌ no tengo recursos para esta fecha
+* jueves, 09/04/2026: ❌ no tengo recursos para esta fecha
+* viernes, 10/04/2026: ❌ no tengo recursos para esta fecha
+* sábado, 11/04/2026: ❌ no tengo recursos para esta fecha
+* domingo, 12/04/2026: ❌ no tengo recursos para esta fecha
+* lunes, 13/04/2026: ❌ no tengo recursos para esta fecha
+* martes, 14/04/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 15/04/2026: ❌ no tengo recursos para esta fecha
+* jueves, 16/04/2026: ❌ no tengo recursos para esta fecha
+* viernes, 17/04/2026: ❌ no tengo recursos para esta fecha
+* sábado, 18/04/2026: ❌ no tengo recursos para esta fecha
+* domingo, 19/04/2026: ❌ no tengo recursos para esta fecha
+* lunes, 20/04/2026: ❌ no tengo recursos para esta fecha
+* martes, 21/04/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 22/04/2026: ❌ no tengo recursos para esta fecha
+* jueves, 23/04/2026: ❌ no tengo recursos para esta fecha
+* viernes, 24/04/2026: ❌ no tengo recursos para esta fecha
+* sábado, 25/04/2026: ❌ no tengo recursos para esta fecha
+* domingo, 26/04/2026: ❌ no tengo recursos para esta fecha
+* lunes, 27/04/2026: ❌ no tengo recursos para esta fecha
+* martes, 28/04/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 29/04/2026: ❌ no tengo recursos para esta fecha
+* jueves, 30/04/2026: ❌ no tengo recursos para esta fecha
+* viernes, 01/05/2026: ❌ no tengo recursos para esta fecha
+* sábado, 02/05/2026: ❌ no tengo recursos para esta fecha
+* domingo, 03/05/2026: ❌ no tengo recursos para esta fecha
+* lunes, 04/05/2026: ❌ no tengo recursos para esta fecha
+* martes, 05/05/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 06/05/2026: ❌ no tengo recursos para esta fecha
+* jueves, 07/05/2026: ❌ no tengo recursos para esta fecha
+* viernes, 08/05/2026: ❌ no tengo recursos para esta fecha
+* sábado, 09/05/2026: ❌ no tengo recursos para esta fecha
+* domingo, 10/05/2026: ❌ no tengo recursos para esta fecha
+* lunes, 11/05/2026: ❌ no tengo recursos para esta fecha
+* martes, 12/05/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 13/05/2026: ❌ no tengo recursos para esta fecha
+* jueves, 14/05/2026: ❌ no tengo recursos para esta fecha
+* viernes, 15/05/2026: ❌ no tengo recursos para esta fecha
+* sábado, 16/05/2026:
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-18fcee8f-7133-49df-8383-b56aae25065a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-18fcee8f-7133-49df-8383-b56aae25065a-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+* domingo, 17/05/2026:
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-60fe89d0-a1ad-4a27-a429-73f157c4b259  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-60fe89d0-a1ad-4a27-a429-73f157c4b259-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+* lunes, 18/05/2026:
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-24081bbd-19eb-4985-9ef0-ac9094af25de  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-24081bbd-19eb-4985-9ef0-ac9094af25de-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+* martes, 19/05/2026:
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5fbf92aa-0f04-40c6-bbd0-ae58b09deba3  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5fbf92aa-0f04-40c6-bbd0-ae58b09deba3-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+* miércoles, 20/05/2026:
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-3d64dcb1-ea97-427a-9fb2-16e438d0277d  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-3d64dcb1-ea97-427a-9fb2-16e438d0277d-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+* jueves, 21/05/2026:
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-13606775-c56f-4cf6-8196-a024d620ebaf  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-13606775-c56f-4cf6-8196-a024d620ebaf-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+* viernes, 22/05/2026:
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-23970767-ced3-4833-bb37-53289d4974d8  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-23970767-ced3-4833-bb37-53289d4974d8-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
