@@ -1326,3 +1326,35 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2a28a405-df19-4aaf-a750-6879689a6de1  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2a28a405-df19-4aaf-a750-6879689a6de1-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 05/06/2026, 03:32 p. m.)
 * sábado, 06/06/2026:
   * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2e7e6dd3-663f-44fe-b308-04fd34fccafd  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2e7e6dd3-663f-44fe-b308-04fd34fccafd-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 06/06/2026, 03:21 p. m.)
+* domingo, 07/06/2026: ❌ no tengo recursos para esta fecha
+* lunes, 08/06/2026: ❌ no tengo recursos para esta fecha
+* martes, 09/06/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 10/06/2026: ❌ no tengo recursos para esta fecha
+* jueves, 11/06/2026: ❌ no tengo recursos para esta fecha
+* viernes, 12/06/2026: ❌ no tengo recursos para esta fecha
+* sábado, 13/06/2026: ❌ no tengo recursos para esta fecha
+* domingo, 14/06/2026: ❌ no tengo recursos para esta fecha
+* lunes, 15/06/2026: ❌ no tengo recursos para esta fecha
+* martes, 16/06/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 17/06/2026: ❌ no tengo recursos para esta fecha
+* jueves, 18/06/2026: ❌ no tengo recursos para esta fecha
+* viernes, 19/06/2026: ❌ no tengo recursos para esta fecha
+* sábado, 20/06/2026: ❌ no tengo recursos para esta fecha
+* domingo, 21/06/2026: ❌ no tengo recursos para esta fecha
+* lunes, 22/06/2026: ❌ no tengo recursos para esta fecha
+* martes, 23/06/2026: ❌ no tengo recursos para esta fecha
+* miércoles, 24/06/2026: ❌ no tengo recursos para esta fecha
+* jueves, 25/06/2026:
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-6ad3827d-5c26-4635-b0f0-d91627e515b1  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-6ad3827d-5c26-4635-b0f0-d91627e515b1-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+* viernes, 26/06/2026:
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-7bd162b7-d3bb-4b48-82aa-9d299274b0d1  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-7bd162b7-d3bb-4b48-82aa-9d299274b0d1-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+* sábado, 27/06/2026:
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-562e2d71-4d0d-4008-8762-16d32fea9a32  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-562e2d71-4d0d-4008-8762-16d32fea9a32-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+* domingo, 28/06/2026:
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-91c8917e-bf56-4781-ba69-0527bdccbdb4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-91c8917e-bf56-4781-ba69-0527bdccbdb4-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+* lunes, 29/06/2026:
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-f3b925ea-aec0-4d88-b5d0-f61fa945a3ca  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-f3b925ea-aec0-4d88-b5d0-f61fa945a3ca-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+* martes, 30/06/2026:
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-34648732-412a-461e-86f0-58b81b31ad2a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-34648732-412a-461e-86f0-58b81b31ad2a-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+* miércoles, 01/07/2026:
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c23a628f-e1de-4ca9-8eae-2c8469e21e38  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c23a628f-e1de-4ca9-8eae-2c8469e21e38-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
