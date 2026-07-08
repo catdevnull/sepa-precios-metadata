@@ -896,7 +896,7 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-403ec23c-e3f5-40f1-8045-585152d84f2f  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-403ec23c-e3f5-40f1-8045-585152d84f2f-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 22/10/2025, 03:00 p. m.)
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-58bb339e-4850-43ba-a57c-6d6917ca2281  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-58bb339e-4850-43ba-a57c-6d6917ca2281-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 19/10/2025, 12:00 p. m.)
 * lunes, 20/10/2025:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-bf4e0c24-9b9e-46b4-99ef-5685ef8bbf75  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-bf4e0c24-9b9e-46b4-99ef-5685ef8bbf75-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 22/10/2025, 03:00 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-bf4e0c24-9b9e-46b4-99ef-5685ef8bbf75 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/10/2025, 03:00 p. m.)
 * martes, 21/10/2025:
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-dab1a8e1-c563-4bc7-aa86-2b24524892f4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-dab1a8e1-c563-4bc7-aa86-2b24524892f4-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 22/10/2025, 03:00 p. m.)
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-ef816a14-ac05-4d6a-a977-ed8deae0f76f  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-ef816a14-ac05-4d6a-a977-ed8deae0f76f-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 21/10/2025, 12:02 p. m.)
@@ -905,38 +905,38 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-7b293cde-8c5c-4522-953c-2399acd939f3  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-7b293cde-8c5c-4522-953c-2399acd939f3-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 22/10/2025, 12:01 p. m.)
 * jueves, 23/10/2025:
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-9ac45255-11d4-46c9-9412-5814648c4794  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-9ac45255-11d4-46c9-9412-5814648c4794-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 28/10/2025, 06:00 p. m.)
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-98f988d0-c5fa-47e8-acf2-877bc87abcb7  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-98f988d0-c5fa-47e8-acf2-877bc87abcb7-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 23/10/2025, 12:01 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-98f988d0-c5fa-47e8-acf2-877bc87abcb7 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 23/10/2025, 12:01 p. m.)
 * viernes, 24/10/2025:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-e391e258-9551-48a5-99d9-71ed4c677555  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-e391e258-9551-48a5-99d9-71ed4c677555-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 24/10/2025, 12:01 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-e391e258-9551-48a5-99d9-71ed4c677555 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 24/10/2025, 12:01 p. m.)
 * sábado, 25/10/2025:
   * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-79571c15-fe6d-42de-ba12-eeafbc640ef2  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-79571c15-fe6d-42de-ba12-eeafbc640ef2-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 28/10/2025, 06:00 p. m.)
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-203871f7-6111-4951-84b0-128e9a9f3fd6  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-203871f7-6111-4951-84b0-128e9a9f3fd6-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 25/10/2025, 12:00 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-203871f7-6111-4951-84b0-128e9a9f3fd6 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 25/10/2025, 12:00 p. m.)
 * domingo, 26/10/2025:
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-461e4df5-eb8c-4895-965d-d9e859130440  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-461e4df5-eb8c-4895-965d-d9e859130440-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 28/10/2025, 06:00 p. m.)
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-f99380b3-b591-4350-8ede-90cee5c42ec6  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-f99380b3-b591-4350-8ede-90cee5c42ec6-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 26/10/2025, 12:00 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-f99380b3-b591-4350-8ede-90cee5c42ec6 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 26/10/2025, 12:00 p. m.)
 * lunes, 27/10/2025:
   * 0a9069a9-06e8-4f98-874d-da5578693290-revID-b4699963-31f6-4b53-9a90-906bdb848265  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-b4699963-31f6-4b53-9a90-906bdb848265-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 28/10/2025, 06:00 p. m.)
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-5e6d9565-cff9-41c6-bd72-8ea143036a55  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-5e6d9565-cff9-41c6-bd72-8ea143036a55-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 27/10/2025, 12:00 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-5e6d9565-cff9-41c6-bd72-8ea143036a55 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 27/10/2025, 12:00 p. m.)
 * martes, 28/10/2025:
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-534859e5-644d-49f9-abea-ec37dda8a011  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-534859e5-644d-49f9-abea-ec37dda8a011-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 28/10/2025, 06:00 p. m.)
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-c262aed1-704a-4903-985d-e7c34d6b9dd6  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-c262aed1-704a-4903-985d-e7c34d6b9dd6-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 28/10/2025, 12:00 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-c262aed1-704a-4903-985d-e7c34d6b9dd6 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 28/10/2025, 12:00 p. m.)
 * miércoles, 29/10/2025:
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-241d2fc1-fa60-4804-9cc0-8f56fd1422e2  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-241d2fc1-fa60-4804-9cc0-8f56fd1422e2-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 29/10/2025, 12:00 p. m.)
 * jueves, 30/10/2025:
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-d3bc16f9-59ac-47af-b821-4ab02fe9fc7e  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-d3bc16f9-59ac-47af-b821-4ab02fe9fc7e-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 30/10/2025, 03:00 p. m.)
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-7c8decee-cd9e-44eb-924a-f79a322de5d6  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-7c8decee-cd9e-44eb-924a-f79a322de5d6-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 30/10/2025, 12:00 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-7c8decee-cd9e-44eb-924a-f79a322de5d6 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 30/10/2025, 12:00 p. m.)
 * viernes, 31/10/2025:
   * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2fd54598-21d4-4f05-9449-1e20ef518792  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2fd54598-21d4-4f05-9449-1e20ef518792-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 31/10/2025, 06:00 p. m.)
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-464191fb-6d70-46a8-a329-6ad87a26fb27  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-464191fb-6d70-46a8-a329-6ad87a26fb27-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 31/10/2025, 12:00 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-464191fb-6d70-46a8-a329-6ad87a26fb27 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 31/10/2025, 12:00 p. m.)
 * sábado, 01/11/2025:
   * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-d0a40a8f-aace-490c-b4f2-5f1ffba8a2db  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-d0a40a8f-aace-490c-b4f2-5f1ffba8a2db-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 02/11/2025, 03:00 p. m.)
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-94802f8d-b353-4a18-aefb-879ac53be7bd  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-94802f8d-b353-4a18-aefb-879ac53be7bd-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 01/11/2025, 12:00 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-94802f8d-b353-4a18-aefb-879ac53be7bd ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/11/2025, 12:00 p. m.)
 * domingo, 02/11/2025:
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-080deaa6-508a-4b19-9824-826221baa937  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-080deaa6-508a-4b19-9824-826221baa937-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 02/11/2025, 03:00 p. m.)
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-085a759c-aaad-456f-958d-cf9baf406220  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-085a759c-aaad-456f-958d-cf9baf406220-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 02/11/2025, 12:00 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-085a759c-aaad-456f-958d-cf9baf406220 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 02/11/2025, 12:00 p. m.)
 * lunes, 03/11/2025:
   * 0a9069a9-06e8-4f98-874d-da5578693290-revID-1535371b-8eb3-4583-8287-93fad1f04384  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-1535371b-8eb3-4583-8287-93fad1f04384-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 03/11/2025, 03:00 p. m.)
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-86e6bf09-e0ac-4e9c-9d2f-9d4098734098  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-86e6bf09-e0ac-4e9c-9d2f-9d4098734098-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 03/11/2025, 12:00 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-86e6bf09-e0ac-4e9c-9d2f-9d4098734098 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 03/11/2025, 12:00 p. m.)
 * martes, 04/11/2025:
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-99056854-e559-4e8d-bac1-c4ddad82a1f4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-99056854-e559-4e8d-bac1-c4ddad82a1f4-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 04/11/2025, 03:00 p. m.)
 * miércoles, 05/11/2025:
@@ -991,14 +991,14 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b3a96573-5dd8-47c6-b633-26d6a2f319ba  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-b3a96573-5dd8-47c6-b633-26d6a2f319ba-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 30/11/2025, 12:00 p. m.)
 * lunes, 01/12/2025:
   * 0a9069a9-06e8-4f98-874d-da5578693290-revID-3af11360-0a52-499f-9f49-2d50a3aaf4ec  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-3af11360-0a52-499f-9f49-2d50a3aaf4ec-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 04/12/2025, 12:00 p. m.)
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-e1662e31-5761-4538-a5b0-975551ed6ee2  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-e1662e31-5761-4538-a5b0-975551ed6ee2-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 03/12/2025, 06:00 p. m.)
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-c90cc4f5-42bc-48ab-b713-5209b361b306  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-c90cc4f5-42bc-48ab-b713-5209b361b306-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 03/12/2025, 12:01 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-e1662e31-5761-4538-a5b0-975551ed6ee2 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 03/12/2025, 06:00 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-c90cc4f5-42bc-48ab-b713-5209b361b306 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 03/12/2025, 12:01 p. m.)
 * martes, 02/12/2025:
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-42f5adf9-d949-4dcf-91d1-ce50d7275799  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-42f5adf9-d949-4dcf-91d1-ce50d7275799-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 04/12/2025, 12:00 p. m.)
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-4fa5d1f6-4576-4d05-90e9-dab3cbfd1253  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-4fa5d1f6-4576-4d05-90e9-dab3cbfd1253-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 03/12/2025, 12:01 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-4fa5d1f6-4576-4d05-90e9-dab3cbfd1253 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 03/12/2025, 12:01 p. m.)
 * miércoles, 03/12/2025:
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-bf239777-7da4-4e7d-8a14-8b0b96b6c564  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-bf239777-7da4-4e7d-8a14-8b0b96b6c564-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 04/12/2025, 03:00 p. m.)
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-447ca76d-fc23-4913-b497-057d46059573  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-447ca76d-fc23-4913-b497-057d46059573-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 03/12/2025, 12:01 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-447ca76d-fc23-4913-b497-057d46059573 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 03/12/2025, 12:01 p. m.)
 * jueves, 04/12/2025:
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-8aa3257c-7858-473c-8396-ebcb42aa5df5  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-8aa3257c-7858-473c-8396-ebcb42aa5df5-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 04/12/2025, 03:00 p. m.)
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-1142c1bc-629e-4f84-a2de-d255ccba4602  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-1142c1bc-629e-4f84-a2de-d255ccba4602-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 04/12/2025, 12:00 p. m.)
@@ -1072,8 +1072,8 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-d386fe79-0ed2-4b34-9a03-b77eb73ccc27  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-d386fe79-0ed2-4b34-9a03-b77eb73ccc27-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 06/01/2026, 12:01 p. m.)
 * miércoles, 07/01/2026:
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-18f616b8-f878-4d59-9024-d6757e847e56  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-18f616b8-f878-4d59-9024-d6757e847e56-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 08/01/2026, 12:02 p. m.)
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-694356b9-1cbf-420e-8199-f63bb57cc1dc  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-694356b9-1cbf-420e-8199-f63bb57cc1dc-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 07/01/2026, 09:01 p. m.)
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-62289ca5-e25a-42e9-8de6-a7c498bee91c  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-62289ca5-e25a-42e9-8de6-a7c498bee91c-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 07/01/2026, 06:00 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-694356b9-1cbf-420e-8199-f63bb57cc1dc ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 07/01/2026, 09:01 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-62289ca5-e25a-42e9-8de6-a7c498bee91c ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 07/01/2026, 06:00 p. m.)
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-835936d0-a8ef-45f4-a04e-eb3dff927768  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-835936d0-a8ef-45f4-a04e-eb3dff927768-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 07/01/2026, 12:01 p. m.)
 * jueves, 08/01/2026:
   * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-ca91bc7b-60a2-4788-bb3f-032228fa869d  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-ca91bc7b-60a2-4788-bb3f-032228fa869d-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 08/01/2026, 12:02 p. m.)
@@ -1085,7 +1085,7 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
   * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-6714aa6b-5fc7-4292-8b19-4591449e9163  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-6714aa6b-5fc7-4292-8b19-4591449e9163-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 11/01/2026, 12:00 p. m.)
 * lunes, 12/01/2026:
   * 0a9069a9-06e8-4f98-874d-da5578693290-revID-8ab2b868-69c9-43c1-98b5-a08d4f53adf4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-8ab2b868-69c9-43c1-98b5-a08d4f53adf4-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 12/01/2026, 06:00 p. m.)
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-7cb0ddc7-d1a5-4aed-a620-3e156fe556e3  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-7cb0ddc7-d1a5-4aed-a620-3e156fe556e3-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 12/01/2026, 03:00 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-7cb0ddc7-d1a5-4aed-a620-3e156fe556e3 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 12/01/2026, 03:00 p. m.)
   * 0a9069a9-06e8-4f98-874d-da5578693290-revID-749b8b3f-96bf-464c-8194-69378b0e788b  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-749b8b3f-96bf-464c-8194-69378b0e788b-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 12/01/2026, 12:02 p. m.)
 * martes, 13/01/2026:
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-ed8dfa9e-9d03-48c0-bec5-f6e5338a1238  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-ed8dfa9e-9d03-48c0-bec5-f6e5338a1238-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 13/01/2026, 12:02 p. m.)
@@ -1219,15 +1219,15 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
 * martes, 17/03/2026:
   * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-b819924a-ed5f-47c4-bde0-3879b9d47279  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-b819924a-ed5f-47c4-bde0-3879b9d47279-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 17/03/2026, 03:12 p. m.)
 * miércoles, 18/03/2026:
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-609e4dec-ad67-44ec-a9c7-63eba8d0efdb  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-609e4dec-ad67-44ec-a9c7-63eba8d0efdb-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 18/03/2026, 03:14 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-609e4dec-ad67-44ec-a9c7-63eba8d0efdb ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 18/03/2026, 03:14 p. m.)
 * jueves, 19/03/2026:
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-f78ec626-e18d-4b0e-a1ce-9b2ac73f1f0f  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-f78ec626-e18d-4b0e-a1ce-9b2ac73f1f0f-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 19/03/2026, 03:11 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-f78ec626-e18d-4b0e-a1ce-9b2ac73f1f0f ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 19/03/2026, 03:11 p. m.)
 * viernes, 20/03/2026:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-36dd4511-89c5-4c8e-8817-9604cc08b9ea  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-36dd4511-89c5-4c8e-8817-9604cc08b9ea-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 20/03/2026, 03:06 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-36dd4511-89c5-4c8e-8817-9604cc08b9ea ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 20/03/2026, 03:06 p. m.)
 * sábado, 21/03/2026:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-688961f8-6181-455d-919c-1754976e7dac  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-688961f8-6181-455d-919c-1754976e7dac-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 21/03/2026, 03:08 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-688961f8-6181-455d-919c-1754976e7dac ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 21/03/2026, 03:08 p. m.)
 * domingo, 22/03/2026:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-809bf3e5-6593-4afa-aa62-4feab32ca815  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-809bf3e5-6593-4afa-aa62-4feab32ca815-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 22/03/2026, 03:02 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-809bf3e5-6593-4afa-aa62-4feab32ca815 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/03/2026, 03:02 p. m.)
 * lunes, 23/03/2026: ❌ no tengo recursos para esta fecha
 * martes, 24/03/2026: ❌ no tengo recursos para esta fecha
 * miércoles, 25/03/2026: ❌ no tengo recursos para esta fecha
@@ -1283,49 +1283,49 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
 * jueves, 14/05/2026: ❌ no tengo recursos para esta fecha
 * viernes, 15/05/2026: ❌ no tengo recursos para esta fecha
 * sábado, 16/05/2026:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-18fcee8f-7133-49df-8383-b56aae25065a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-18fcee8f-7133-49df-8383-b56aae25065a-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-18fcee8f-7133-49df-8383-b56aae25065a ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * domingo, 17/05/2026:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-60fe89d0-a1ad-4a27-a429-73f157c4b259  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-60fe89d0-a1ad-4a27-a429-73f157c4b259-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-60fe89d0-a1ad-4a27-a429-73f157c4b259 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * lunes, 18/05/2026:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-24081bbd-19eb-4985-9ef0-ac9094af25de  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-24081bbd-19eb-4985-9ef0-ac9094af25de-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-24081bbd-19eb-4985-9ef0-ac9094af25de ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * martes, 19/05/2026:
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5fbf92aa-0f04-40c6-bbd0-ae58b09deba3  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5fbf92aa-0f04-40c6-bbd0-ae58b09deba3-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-5fbf92aa-0f04-40c6-bbd0-ae58b09deba3 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * miércoles, 20/05/2026:
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-3d64dcb1-ea97-427a-9fb2-16e438d0277d  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-3d64dcb1-ea97-427a-9fb2-16e438d0277d-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-3d64dcb1-ea97-427a-9fb2-16e438d0277d ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * jueves, 21/05/2026:
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-13606775-c56f-4cf6-8196-a024d620ebaf  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-13606775-c56f-4cf6-8196-a024d620ebaf-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-13606775-c56f-4cf6-8196-a024d620ebaf ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * viernes, 22/05/2026:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-23970767-ced3-4833-bb37-53289d4974d8  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-23970767-ced3-4833-bb37-53289d4974d8-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 22/05/2026, 11:04 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-23970767-ced3-4833-bb37-53289d4974d8 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 22/05/2026, 11:04 p. m.)
 * sábado, 23/05/2026:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-eba48fab-1432-4058-96ce-5a737a7d6e99  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-eba48fab-1432-4058-96ce-5a737a7d6e99-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 23/05/2026, 03:14 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-eba48fab-1432-4058-96ce-5a737a7d6e99 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 23/05/2026, 03:14 p. m.)
 * domingo, 24/05/2026:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-1d41a360-2693-416f-b614-2998d590959a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-1d41a360-2693-416f-b614-2998d590959a-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 24/05/2026, 03:15 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-1d41a360-2693-416f-b614-2998d590959a ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 24/05/2026, 03:15 p. m.)
 * lunes, 25/05/2026:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-bc8586f2-f68d-42d5-be50-10b6132476c3  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-bc8586f2-f68d-42d5-be50-10b6132476c3-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 25/05/2026, 03:27 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-bc8586f2-f68d-42d5-be50-10b6132476c3 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 25/05/2026, 03:27 p. m.)
 * martes, 26/05/2026:
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-c9437d2b-19c2-415d-ba9d-3f7c9ca5e268  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-c9437d2b-19c2-415d-ba9d-3f7c9ca5e268-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 26/05/2026, 03:42 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-c9437d2b-19c2-415d-ba9d-3f7c9ca5e268 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 26/05/2026, 03:42 p. m.)
 * miércoles, 27/05/2026:
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-1ef17091-4afa-48f3-9c9a-30bb1f48b695  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-1ef17091-4afa-48f3-9c9a-30bb1f48b695-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 27/05/2026, 03:40 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-1ef17091-4afa-48f3-9c9a-30bb1f48b695 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 27/05/2026, 03:40 p. m.)
 * jueves, 28/05/2026:
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a44d71a7-a0b6-4535-8870-17bded534c02  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a44d71a7-a0b6-4535-8870-17bded534c02-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 28/05/2026, 01:23 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-a44d71a7-a0b6-4535-8870-17bded534c02 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 28/05/2026, 01:23 p. m.)
 * viernes, 29/05/2026:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-61a0706a-b219-4ae4-b48b-7aa9f41d3239  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-61a0706a-b219-4ae4-b48b-7aa9f41d3239-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 29/05/2026, 03:45 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-61a0706a-b219-4ae4-b48b-7aa9f41d3239 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 29/05/2026, 03:45 p. m.)
 * sábado, 30/05/2026:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-e08514ab-51db-4296-8a7c-f61870ce0392  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-e08514ab-51db-4296-8a7c-f61870ce0392-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 30/05/2026, 03:17 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-e08514ab-51db-4296-8a7c-f61870ce0392 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 30/05/2026, 03:17 p. m.)
 * domingo, 31/05/2026:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-99ef05e6-4aaf-4b83-ad1b-65862feb730e  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-99ef05e6-4aaf-4b83-ad1b-65862feb730e-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 31/05/2026, 03:18 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-99ef05e6-4aaf-4b83-ad1b-65862feb730e ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 31/05/2026, 03:18 p. m.)
 * lunes, 01/06/2026:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-c46b53eb-a700-415f-a1c7-0129a55cb254  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-c46b53eb-a700-415f-a1c7-0129a55cb254-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 01/06/2026, 01:47 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-c46b53eb-a700-415f-a1c7-0129a55cb254 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/06/2026, 01:47 p. m.)
 * martes, 02/06/2026:
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-87888372-0e84-4ac8-9a71-1b4229f60dfb  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-87888372-0e84-4ac8-9a71-1b4229f60dfb-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 02/06/2026, 01:28 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-87888372-0e84-4ac8-9a71-1b4229f60dfb ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 02/06/2026, 01:28 p. m.)
 * miércoles, 03/06/2026:
-  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6db70127-9371-48d2-b8b7-74a2a3aabeea  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6db70127-9371-48d2-b8b7-74a2a3aabeea-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 03/06/2026, 01:30 p. m.)
+  * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-6db70127-9371-48d2-b8b7-74a2a3aabeea ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 03/06/2026, 01:30 p. m.)
 * jueves, 04/06/2026:
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-40497e53-7c9f-4c68-ba93-c49d9e80c3e0  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-40497e53-7c9f-4c68-ba93-c49d9e80c3e0-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 04/06/2026, 03:38 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-40497e53-7c9f-4c68-ba93-c49d9e80c3e0 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 04/06/2026, 03:38 p. m.)
 * viernes, 05/06/2026:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2a28a405-df19-4aaf-a750-6879689a6de1  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2a28a405-df19-4aaf-a750-6879689a6de1-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 05/06/2026, 03:32 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-2a28a405-df19-4aaf-a750-6879689a6de1 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 05/06/2026, 03:32 p. m.)
 * sábado, 06/06/2026:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2e7e6dd3-663f-44fe-b308-04fd34fccafd  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2e7e6dd3-663f-44fe-b308-04fd34fccafd-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 06/06/2026, 03:21 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-2e7e6dd3-663f-44fe-b308-04fd34fccafd ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 06/06/2026, 03:21 p. m.)
 * domingo, 07/06/2026: ❌ no tengo recursos para esta fecha
 * lunes, 08/06/2026: ❌ no tengo recursos para esta fecha
 * martes, 09/06/2026: ❌ no tengo recursos para esta fecha
@@ -1345,17 +1345,17 @@ esto esta automáticamente generado por sepa-index-gen dentro de preciazo.
 * martes, 23/06/2026: ❌ no tengo recursos para esta fecha
 * miércoles, 24/06/2026: ❌ no tengo recursos para esta fecha
 * jueves, 25/06/2026:
-  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-6ad3827d-5c26-4635-b0f0-d91627e515b1  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-6ad3827d-5c26-4635-b0f0-d91627e515b1-sepa_jueves.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+  * d076720f-a7f0-4af8-b1d6-1b99d5a90c14-revID-6ad3827d-5c26-4635-b0f0-d91627e515b1 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/07/2026, 07:45 p. m.)
 * viernes, 26/06/2026:
-  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-7bd162b7-d3bb-4b48-82aa-9d299274b0d1  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/91bc072a-4726-44a1-85ec-4a8467aad27e-revID-7bd162b7-d3bb-4b48-82aa-9d299274b0d1-sepa_viernes.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+  * 91bc072a-4726-44a1-85ec-4a8467aad27e-revID-7bd162b7-d3bb-4b48-82aa-9d299274b0d1 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/07/2026, 07:45 p. m.)
 * sábado, 27/06/2026:
-  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-562e2d71-4d0d-4008-8762-16d32fea9a32  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-562e2d71-4d0d-4008-8762-16d32fea9a32-sepa_sabado.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+  * b3c3da5d-213d-41e7-8d74-f23fda0a3c30-revID-562e2d71-4d0d-4008-8762-16d32fea9a32 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/07/2026, 07:45 p. m.)
 * domingo, 28/06/2026:
-  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-91c8917e-bf56-4781-ba69-0527bdccbdb4  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/f8e75128-515a-436e-bf8d-5c63a62f2005-revID-91c8917e-bf56-4781-ba69-0527bdccbdb4-sepa_domingo.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+  * f8e75128-515a-436e-bf8d-5c63a62f2005-revID-91c8917e-bf56-4781-ba69-0527bdccbdb4 ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/07/2026, 07:45 p. m.)
 * lunes, 29/06/2026:
-  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-f3b925ea-aec0-4d88-b5d0-f61fa945a3ca  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/0a9069a9-06e8-4f98-874d-da5578693290-revID-f3b925ea-aec0-4d88-b5d0-f61fa945a3ca-sepa_lunes.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+  * 0a9069a9-06e8-4f98-874d-da5578693290-revID-f3b925ea-aec0-4d88-b5d0-f61fa945a3ca ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/07/2026, 07:45 p. m.)
 * martes, 30/06/2026:
-  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-34648732-412a-461e-86f0-58b81b31ad2a  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-34648732-412a-461e-86f0-58b81b31ad2a-sepa_martes.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
+  * 9dc06241-cc83-44f4-8e25-c9b1636b8bc8-revID-34648732-412a-461e-86f0-58b81b31ad2a ❌ archivo archivado demasiado chico  ❌ (primera vez visto: 01/07/2026, 07:45 p. m.)
 * miércoles, 01/07/2026:
   * 1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c23a628f-e1de-4ca9-8eae-2c8469e21e38  [✅ descargar](https://f004.backblazeb2.com/file/precios-justos-datasets/1e92cd42-4f94-4071-a165-62c4cb2ce23c-revID-c23a628f-e1de-4ca9-8eae-2c8469e21e38-sepa_miercoles.zip-repackaged.tar.zst) (primera vez visto: 01/07/2026, 07:45 p. m.)
 * jueves, 02/07/2026:
